@@ -1,0 +1,32 @@
+﻿  card.cpp
+C:\Users\zkrem\Desktop\Sorry\Sorry\card.cpp(14,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  graphs.cpp
+  homs.cpp
+  Sorry.cpp
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(157,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(157,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(157,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(157,38): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(157,47): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(157,56): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(215,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(408,6): warning C4309: '=': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(754,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(754,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1118,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1118,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1325,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1325,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1394,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1394,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1394,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(1394,38): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(3391,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(3524,11): warning C4309: 'initializing': truncation of constant value
+  tems.cpp
+  Generating Code...
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(3924): warning C4715: 'randNum': not all control paths return a value
+C:\Users\zkrem\Desktop\Sorry\Sorry\Sorry.cpp(3874): warning C4715: 'friendlySrry': not all control paths return a value
+C:\Users\zkrem\Desktop\Sorry\Sorry\homs.cpp(139): warning C4715: 'homes::getBord': not all control paths return a value
+C:\Users\zkrem\Desktop\Sorry\Sorry\homs.cpp(263): warning C4715: 'homes::getTcount': not all control paths return a value
+  Sorry.vcxproj -> C:\Users\zkrem\Desktop\Sorry\Debug\Sorry.exe
